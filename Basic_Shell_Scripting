@@ -1,7 +1,8 @@
 #!/bin/bash
 
 ###############################################################################
-# Author: Abhishek Veeramalla
+# Author: Bhavya Trivedi
+# Learning From: Abhishek Veramalla
 # Version: v0.0.1
 
 # Script to automate the process of listing all the resources in an AWS account
